@@ -18,5 +18,8 @@
     <ClCompile Include="sem3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sem1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
