@@ -15,11 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sem3.c">
+    <ClCompile Include="..\..\Project1\sem4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sem1.c">
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\Project1\masini.txt">
       <Filter>Source Files</Filter>
-    </ClCompile>
+    </Text>
   </ItemGroup>
 </Project>
