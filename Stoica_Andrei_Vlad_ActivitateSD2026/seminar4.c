@@ -186,4 +186,5 @@ int main() {
 	afisareListaMasini(cap);
 	printf("\n");
 	return 0;
+	//test
 }
