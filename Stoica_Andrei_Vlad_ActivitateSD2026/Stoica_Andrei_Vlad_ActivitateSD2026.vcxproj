@@ -127,10 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Project1\sem4.c" />
+    <ClCompile Include="seminar4.c" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\Project1\masini.txt" />
+    <Text Include="masini.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
