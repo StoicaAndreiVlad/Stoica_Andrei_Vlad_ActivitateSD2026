@@ -1,0 +1,10 @@
+1,Andrei Popescu,9.45,A
+2,Maria Ionescu,8.70,B
+3,Vlad Georgescu,7.95,C
+4,Elena Dumitru,9.80,A
+5,Radu Mihai,6.50,B
+6,Ioana Stan,10.00,C
+7,Stefan Pavel,8.25,A
+8,Bianca Enache,7.60,B
+9,Alex Marin,9.10,C
+10,Daniela Tudor,8.90,A
