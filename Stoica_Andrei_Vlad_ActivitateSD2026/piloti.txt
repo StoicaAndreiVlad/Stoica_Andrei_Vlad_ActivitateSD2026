@@ -1,0 +1,7 @@
+4,72.5,Ferrari,27
+2,68.4,RedBull,26
+6,75.1,Mercedes,39
+1,70.0,Ferrari,21
+3,69.8,McLaren,24
+5,71.2,RedBull,28
+7,73.0,AstonMartin,43
