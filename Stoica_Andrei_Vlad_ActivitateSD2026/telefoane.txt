@@ -1,0 +1,7 @@
+4,3500.5,Samsung,86
+2,4200.0,Apple,91
+6,1800.9,Xiaomi,78
+1,2500.0,OnePlus,84
+3,5300.0,Apple,95
+5,1500.0,Motorola,72
+7,3100.0,Samsung,89
